@@ -1,8 +1,11 @@
 # 第一讲 变量、输入输出、表达式与顺序语句
 
 第1题 A + Bhttps://www.acwing.com/problem/content/1/
+
 第2题 差https://www.acwing.com/problem/content/610/
+
 第3题 圆的面积 https://www.acwing.com/problem/content/606/
+
 第4题 平均数 https://www.acwing.com/problem/content/608/
 第5题 工资https://www.acwing.com/problem/content/611/
 第6题 油耗https://www.acwing.com/problem/content/617/
